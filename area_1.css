@@ -1,0 +1,130 @@
+html
+{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif ;
+}
+
+body
+{
+    margin: 0;
+}
+
+.area_1
+{
+    height: 100vh;
+    position: relative;
+}
+
+.area_1_bg
+{
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+    opacity: 0.5;
+    position: fixed;
+}
+
+.area_1_content
+{
+    position: absolute;
+    top: 3%;
+    left: 7%;
+    margin: 0 auto;
+    width: 85%;
+}
+
+.area_1_header
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.area_1_pic img
+{
+    height: 100px;
+    
+}
+
+.area_1_nav
+{
+    display: flex;
+    gap: 50px;
+}
+
+.area_1_nav_father
+{
+    margin: auto 0;
+}
+
+.area_1_nav_item
+{
+    text-decoration: none;
+    color: white;
+    line-height: 35px;
+    border-bottom: transparent;
+    padding-bottom: 11px;
+    transition:0.2s;
+}
+
+.area_1_nav_item:hover
+{
+    border-bottom: solid 3px #e67f22;
+}
+
+.area_1_body
+{
+    color: white;
+    margin-top: 100px;
+}
+
+.area_1_title
+{
+    font-size: 27px;
+}
+
+.area_1_button
+{
+    display: flex;
+    font-size: 18px;
+    gap: 40px;
+}
+
+button
+{
+    font-size: 18px;
+    cursor:pointer;
+}
+
+.area_1_button1
+{
+    background-color: #e67f22;
+    border: solid 1px #e67f22;
+    border-radius: 50px;
+    padding: 15px 40px;
+    color: white;
+    transition: 0.2s;
+}
+
+.area_1_button1:hover
+{
+    background-color: #de6700;
+    border: solid 1px #de6700;
+}
+
+.area_1_button2
+{
+    border: solid 1px #e67f22;
+    border-radius: 50px;
+    padding: 15px 40px;
+    color: #e67f22;
+    background-color: #ffffff00;
+    transition: 0.2s;
+}
+
+.area_1_button2:hover
+{
+    background-color: #e67f22;
+    color: white;
+}
