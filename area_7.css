@@ -1,0 +1,115 @@
+.area_7
+{
+    background-color: #f4f4f4;
+    padding-top: 30px;
+    padding-bottom: 150px;
+}
+
+.area_7 .area_4_title
+{
+    margin-bottom: 40px;
+}
+
+#area_7
+{
+    margin-bottom: 25px;
+}
+
+.area_7_threethings
+{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.area_7_onething
+{
+    width: 25%;
+    background-color: white;
+    padding: 20px 10px;
+}
+
+.area_7_title
+{
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+.area_7_price
+{
+    font-size: 40px;
+    color: #e67f22;
+    margin-bottom: 20px;
+}
+
+.area_7_price>p
+{
+    font-size: 16px;
+    display: inline;
+}
+
+.area_7_only
+{
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+.area_7_line
+{
+    margin: 0 auto;
+    width: 95%;
+    border-top: solid 1px black;
+    margin-bottom: 20px;
+}
+
+.area_7_content
+{
+    font-size: 14px;
+}
+
+.area_7_content div
+{
+    margin-bottom: 20px;
+}
+
+.area_7_signup_orange
+{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 12px;
+    background-color: #e67f22;
+    border: solid 1px #e67f22;
+    border-radius: 20px;
+    padding: 10px 0px;
+    color: white;
+    transition: 0.2s;
+    width: 100px;
+    cursor: pointer;
+}
+
+.area_7_signup_orange:hover
+{
+    background-color: #de6700;
+    border: solid 1px #de6700;
+}
+
+.area_7_signup
+{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 12px;
+    border: solid 1px #e67f22;
+    border-radius: 20px;
+    padding: 10px 0px;
+    color: #e67f22;
+    background-color: #ffffff00;
+    transition: 0.2s;
+    width: 100px;
+    cursor: pointer;
+}
+
+.area_7_signup:hover
+{
+    background-color: #e67f22;
+    color: white;
+}

@@ -1,0 +1,35 @@
+.area_5
+{
+    background-color: white;
+    padding-top: 45px;
+    padding-bottom: 90px;
+}
+
+.area_5_fourthings
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.area_5_onething
+{
+    margin: 20px;
+    font-size: 16px;
+    
+}
+
+.area_5_onething_pic>img
+{
+    width: 100%;
+}
+
+.area_5_onething_twitter a
+{
+    color: #e67f22;
+}
+
+.area_5_onething_margin
+{
+    margin: 32px 0;
+}

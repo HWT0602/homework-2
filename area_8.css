@@ -1,0 +1,89 @@
+.area_8
+{
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 300px;
+}
+
+#area_8
+{
+    margin-bottom: 25px;
+}
+
+.area_8_content
+{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.area_8_title
+{
+    width: 20%;
+    margin-left:14% ;
+}
+
+.area_8_name
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+    
+}
+
+.area_8_name input
+{
+    
+    border: 1px solid lightgray;
+    width: 50%;
+
+}
+
+.area_8_email
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.area_8_email input
+{
+    width: 50%;
+    border: 1px solid lightgray;
+}
+
+.area_8_find
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.area_8_find select
+{
+    width: 50%;
+    border: 1px solid lightgray;
+}
+
+.area_8_new
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+
+.area_8_please
+{
+    width: 50%;
+}
+
+.area_8_drop
+{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.area_8_drop textarea
+{
+    width: 50%;
+    border: 1px solid lightgray;
+}

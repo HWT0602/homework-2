@@ -1,0 +1,45 @@
+.footer {
+    background-color: #333333;
+    padding: 40px;
+}
+
+.footer_content
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_fivethings
+{
+    display: flex;
+}
+
+.footer_onething
+{
+    margin: 0 10px;
+}
+
+.footer_onething>a
+{
+    text-decoration: none;
+    color: #888888;
+    font-size: 14px;
+}
+
+.footer_fourlinks
+{
+    display: flex;
+}
+
+.footer_onelink
+{
+    margin: 0 10px;
+}
+
+.footer_copyright
+{
+    text-align: center;
+    color: #888888;
+    font-size: 11px;
+    margin-top: 20px;
+}

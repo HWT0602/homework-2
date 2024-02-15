@@ -1,0 +1,68 @@
+.area_2
+{
+    background-color: #fff;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.area_2_title
+{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 35px;
+}
+
+.area_2 h2
+{
+    margin-top: 0;
+}
+
+.area_2_line
+{
+    width: 100px;
+    border: 1px solid #e67f22;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.area_2_content
+{
+    font-size: 24px;
+    font-weight: 100;
+    width: 75%;
+    margin: 0 auto;
+    line-height: 48px;
+    margin-bottom: 35px;
+}
+
+.area_2_fourthing
+{
+    display: flex;
+    justify-content:space-around;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.area_2_onething
+{
+    width: 20%;
+}
+
+.area_2_icon
+{
+    font-size: 250%;
+    margin-bottom: 20px;
+}
+
+.area_2_onetitle
+{
+    font-size: 26px;
+    margin-bottom: 20px;
+}
+
+.area_2_onecontent
+{
+    font-size: 24px;
+    line-height: 35px;
+}
